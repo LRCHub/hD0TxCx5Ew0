@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "TRUE GIRL SHOW",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-05T12:25:17.386404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TRUE GIRL SHOW",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_TRUE_GIRL_SHOW_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRUE GIRL SHOW",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_TRUE_GIRL_SHOW_星街すいせい.txt"
+    }
+  ]
+}
